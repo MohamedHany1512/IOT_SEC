@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "182680255149",
+    "firebase_url": "https://iot-sec-948c9-default-rtdb.firebaseio.com",
+    "project_id": "iot-sec-948c9",
+    "storage_bucket": "iot-sec-948c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182680255149:android:7557610d609109a2502424",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22LWbbAGrmju-xOGYnD7Ky7VxL5OIHPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
