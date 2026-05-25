@@ -18,7 +18,7 @@ void main() async{
  
   runApp(
     
-     Starting());
+     const Starting());
 }
 
 class Starting extends StatelessWidget {
@@ -32,10 +32,10 @@ class Starting extends StatelessWidget {
       
         debugShowCheckedModeBanner: false,
         routes: {
-          SplashScreen.id: (context) => SplashScreen(),
+          SplashScreen.id: (context) => const SplashScreen(),
           LoginPage.id: (context) => LoginPage(),
           DevicesScreen.id: (context) => DevicesScreen(),
-          Gasread.id: (context) => Gasread(),
+          Gasread.id: (context) => const Gasread(),
           AboutPage.id:(context)=>AboutPage(),
         },
       );
