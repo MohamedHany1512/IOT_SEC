@@ -1,16 +1,33 @@
-# graduationproject
+# 📸 Application Preview
 
-A new Flutter project.
+## 🔑 Login Screen
 
-## Getting Started
+Secure authentication screen for accessing the smart home system.
 
-This project is a starting point for a Flutter application.
+<img src="screenShots/login.jpg" width="250"/>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏠 Smart Home Dashboard
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Control connected devices such as:
+- LCD
+- LED
+- Fan
+
+Real-time device status synchronization using Firebase.
+
+<img src="screenShots/home.jpg" width="250"/>
+
+---
+
+## ⛽ Gas Sensor Monitoring
+
+Live gas sensor readings displayed using a real-time gauge meter.
+
+Color indicators:
+- 🟢 Safe
+- 🟠 Warning
+- 🔴 Dangerous
+
+<img src="screenShots/gas.jpg" width="250"/>
